@@ -1,0 +1,62 @@
+@import 'styles/_variables.scss';
+
+.phoneCard {
+  width: 250px;
+  height: 451px;
+  background-color: #fff;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 25px 15px 30px 15px;
+
+  &:not(:nth-of-type(4n)) {
+    margin-right: 1.7%;
+  }
+
+  &__img {
+    margin-bottom: 30px;
+    img {
+      max-width: 220px;
+      max-height: 240px;
+    }
+  }
+
+  &__title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 132%;
+    margin-bottom: 17px;
+  }
+}
+
+.price {
+  display: flex;
+  flex-direction: row;
+
+  &__default {
+    margin-right: 14px;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: $text-color;
+
+    &_sale {
+      color: $secondary-color;
+    }
+  }
+
+  &__discount {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-decoration-line: line-through;
+
+    color: $text-color;
+  }
+}

@@ -1,6 +1,5 @@
-// eslint-disable-next-line no-use-before-define
 import React from 'react';
-import '../styles/globals.css';
+import '../styles/globals.scss';
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
