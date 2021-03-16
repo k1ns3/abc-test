@@ -1,7 +1,7 @@
 // Список вариаций
 export enum ActionsType {
-  HIT,
-  NEW
+  HIT = 'HIT',
+  NEW = 'NEW'
 }
 
 // Товар

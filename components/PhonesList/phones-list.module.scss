@@ -1,0 +1,157 @@
+@import 'styles/variables.scss';
+@import 'styles/mixins.scss';
+
+@mixin sticker {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 126.3%;
+  width: 40px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  text-transform: uppercase;
+  padding: 2px 4px 4px 6px;
+  margin-bottom: 10px;
+}
+
+.phones {
+  padding: 20px;
+  position: relative;
+
+  &__list {
+    overflow: hidden;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-left: -20px;
+  }
+
+  &__item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: #fff;
+    height: 451px;
+    width: calc(25% - 20px);
+
+    @include for-tablet-landscape-up {
+      width: calc(30% - 20px);
+    }
+
+    @include for-tablet-up {
+      width: calc(50% - 20px);
+    }
+
+    @include for-tablet-portrait-up {
+      width: calc(100% - 20px);
+    }
+  }
+
+  &__imgWrap {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+
+  &__stickers {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    top: 20px;
+    left: 0;
+
+    &_sale {
+      @include sticker;
+      background: $secondary-color;
+    }
+
+    &_hit {
+      @include sticker;
+      background-color: #7d048d;
+    }
+
+    &_new {
+      @include sticker;
+      background-color: #00ffeb;
+    }
+  }
+
+  &__img {
+    padding-top: 20px;
+  }
+
+  &__title {
+    max-width: 200px;
+    max-height: 40px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 132%;
+    margin-bottom: 20px;
+  }
+
+  &__content {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  &__priceWrap {
+    display: flex;
+    margin-bottom: 30px;
+  }
+
+  &__priceDef {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    margin-right: 20px;
+  }
+
+  &__orange {
+    color: $secondary-color;
+  }
+
+  &__priceDisc {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-decoration-line: line-through;
+  }
+
+  &__btnWrap {
+    display: flex;
+    align-self: center;
+  }
+
+  &__btn {
+    outline: none;
+    border: none;
+    text-decoration: none;
+    background-color: $secondary-color;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 52px;
+    border-radius: 4px;
+
+    &:hover {
+      cursor: pointer;
+      background-color: #fff;
+      border: 1px solid $secondary-color;
+      color: $secondary-color;
+    }
+  }
+}

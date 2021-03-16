@@ -1,0 +1,69 @@
+import React from 'react';
+import { ActionsType, Product } from '../../../interfaces/types';
+import { percentCalc } from '../../../utils/calculatePercentage';
+import style from '../phones-list.module.scss';
+
+export const PhoneItem: React.FC<Product> = ({
+  image,
+  name,
+  link,
+  price,
+  priceDiskount,
+  action
+}) => {
+  const renderStickers = React.useCallback(() => {
+    return action.map(item => {
+      return item === ActionsType.HIT ? (
+        <div className={style.phones__stickers_hit}>{item}</div>
+      ) : (
+        <div className={style.phones__stickers_new}>{item}</div>
+      );
+    });
+  }, [action]);
+
+  const renderSaleSticker = React.useCallback(() => {
+    if (priceDiskount) {
+      return (
+        <div className={style.phones__stickers_sale}>
+          {percentCalc(price, priceDiskount)}%
+        </div>
+      );
+    }
+  }, [priceDiskount, price]);
+
+  return (
+    <div className={style.phones__item}>
+      <div className={style.phones__stickers}>
+        {renderStickers()} {renderSaleSticker()}
+      </div>
+
+      <div className={style.phones__imgWrap}>
+        <img className={style.phones__img} src={image} alt={name} />
+      </div>
+
+      <div className={style.phones__content}>
+        <div className={style.phones__title}>{name}</div>
+
+        <div className={style.phones__priceWrap}>
+          {priceDiskount ? (
+            <div className={`${style.phones__priceDef} ${style.phones__orange}`}>
+              {priceDiskount.toLocaleString()} &#8381;
+            </div>
+          ) : null}
+
+          {price ? (
+            <div
+              className={priceDiskount ? style.phones__priceDisc : style.phones__priceDef}
+            >
+              {price.toLocaleString()} &#8381;
+            </div>
+          ) : null}
+        </div>
+
+        <div className={style.phones__btnWrap}>
+          <button className={style.phones__btn}>Подробнее</button>
+        </div>
+      </div>
+    </div>
+  );
+};

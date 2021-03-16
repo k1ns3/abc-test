@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import { GoodsBlock } from '../components/Goods/GoodsBlock';
+import { PhonesList } from '../components/PhonesList/PhonesList';
 import style from '../styles/home.module.scss';
 import { Product } from '../interfaces/types';
 
@@ -13,11 +13,9 @@ export default function Home() {
     });
   }, []);
 
-  console.log(phones);
-
   return (
-    <div className={style.goodsWrapper}>
-      <GoodsBlock pizzas={phones} />
+    <div className={style.container}>
+      <PhonesList pizzas={phones} />
     </div>
   );
 }
