@@ -2,6 +2,7 @@ import React from 'react';
 import { ActionsType, Product } from '../../../interfaces/types';
 import { percentCalc } from '../../../utils/calculatePercentage';
 import style from '../phones-list.module.scss';
+import { useRouter } from 'next/router';
 
 export const PhoneItem: React.FC<Product> = ({
   image,
@@ -11,6 +12,8 @@ export const PhoneItem: React.FC<Product> = ({
   priceDiskount,
   action
 }) => {
+  const router = useRouter();
+
   const renderStickers = React.useCallback(() => {
     return action.map(item => {
       return item === ActionsType.HIT ? (
@@ -30,6 +33,11 @@ export const PhoneItem: React.FC<Product> = ({
       );
     }
   }, [priceDiskount, price]);
+
+  const handleClickButton = React.useCallback(() => {
+    const url = `/phone/${link}`;
+    router.push(url, url);
+  }, [router]);
 
   return (
     <div className={style.phones__item}>
@@ -61,7 +69,9 @@ export const PhoneItem: React.FC<Product> = ({
         </div>
 
         <div className={style.phones__btnWrap}>
-          <button className={style.phones__btn}>Подробнее</button>
+          <button onClick={handleClickButton} className={style.phones__btn}>
+            Подробнее
+          </button>
         </div>
       </div>
     </div>
