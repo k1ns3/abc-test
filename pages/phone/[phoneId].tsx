@@ -1,24 +1,22 @@
 import React from 'react';
 import { PhoneItem } from '../../components/PhonesList/PhoneCard/PhoneItem';
+import style from '../../styles/home.module.scss';
 
 export default function PhonePage({ phone }) {
   return (
-    <div
-      style={{
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        height: '100%'
-      }}
-    >
-      <PhoneItem
-        image={phone[0].image}
-        name={phone[0].name}
-        link={phone[0].link}
-        price={phone[0].price}
-        priceDiskount={phone[0].priceDiskount}
-        action={phone[0].action}
-      />
+    <div className={style.container}>
+      {phone ? (
+        <PhoneItem
+          image={phone.image}
+          name={phone.name}
+          link={phone.link}
+          price={phone.price}
+          priceDiskount={phone.priceDiskount}
+          action={phone.action}
+        />
+      ) : (
+        <div className={style.error}>Такого товара не существует </div>
+      )}
     </div>
   );
 }
@@ -29,8 +27,8 @@ export async function getServerSideProps({ query, req }) {
   }
 
   const response = await fetch(`http://localhost:3001/phones?link=${query.phoneId}`);
-  const phone = await response.json();
+  const [phone] = await response.json();
   return {
-    props: { phone }
+    props: { phone: phone ?? null }
   };
 }

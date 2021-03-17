@@ -50,7 +50,7 @@ export const PhoneItem: React.FC<Product> = ({
       </div>
 
       <div className={style.phones__content}>
-        <div className={style.phones__title}>{name}</div>
+        <div className={style.phones__title}>{name.slice(0, 40).concat('...')}</div>
 
         <div className={style.phones__priceWrap}>
           {priceDiskount ? (

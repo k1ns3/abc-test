@@ -1,300 +1,804 @@
 {
   "phones": [
     {
-      "link": 0,
+      "link": "39DB5D76-FFE6-1576-68B2-902A471AE98C",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "fermentum risus,",
+      "price": 9182,
+      "priceDiskount": 5242,
+      "action": ["NEW"]
+    },
+    {
+      "link": "88AAE39E-9B74-94C5-BBFA-6AD85576C4F9",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed dictum.",
+      "price": 9217,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "AC699C31-86C6-E9B9-C2CB-82AFC2536B87",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "vitae aliquam eros turpis non enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales.",
+      "price": 9688,
+      "priceDiskount": 7811,
+      "action": ["HIT"]
+    },
+    {
+      "link": "A3EE76CE-DB29-38AD-4511-F104FD7D333E",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem, eget mollis",
+      "price": 3786,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "0FB30BE5-600B-09A1-AC02-0F2E5D001012",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "velit. Sed malesuada",
+      "price": 6425,
+      "priceDiskount": 3240,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "22954F95-53D7-21E6-452C-6B69AF317D64",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "orci, in consequat enim diam vel arcu. Curabitur ut odio vel est tempor",
+      "price": 2633,
       "priceDiskount": 0,
       "action": ["HIT", "NEW"]
     },
     {
-      "link": 1,
+      "link": "1E523E94-9FB9-A167-E7DF-7ADC715A7E49",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "Suspendisse non leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis,",
+      "price": 4059,
       "priceDiskount": 0,
       "action": ["HIT", "NEW"]
     },
     {
-      "link": 2,
+      "link": "620B8410-415A-0A37-5685-061E3F5036BF",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "sit amet orci. Ut",
+      "price": 9301,
+      "priceDiskount": 3919,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "844D1CDC-D152-2B8C-4A6E-13436F2AA484",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Integer in magna. Phasellus dolor elit, pellentesque a, facilisis non, bibendum sed, est. Nunc laoreet lectus quis massa. Mauris vestibulum, neque",
+      "price": 2496,
       "priceDiskount": 0,
       "action": ["NEW"]
     },
     {
-      "link": 3,
+      "link": "2E9027B7-2A4F-F662-D4A9-5212AD6ACF60",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "nec ante. Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum.",
+      "price": 7170,
+      "priceDiskount": 4803,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "F3D09CBE-2EE9-A504-1DCF-07F0204DBBC7",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "libero et tristique pellentesque,",
+      "price": 9033,
+      "priceDiskount": 5416,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "301461CD-6178-C344-C3BE-5571F75B0079",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "vehicula risus. Nulla eget metus eu erat semper rutrum. Fusce dolor quam, elementum at, egestas a, scelerisque sed, sapien. Nunc",
+      "price": 3861,
+      "priceDiskount": 3710,
+      "action": ["NEW"]
+    },
+    {
+      "link": "5BCD367B-5D8C-1BAA-EA9A-D065427B272A",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "nec quam. Curabitur vel lectus. Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "price": 7835,
+      "priceDiskount": 0,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "220E2814-20D6-8D43-F947-8DC057021D0A",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "viverra. Donec tempus, lorem",
+      "price": 4258,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "F2FED23F-3197-D4BC-0491-094F4FF586F3",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "senectus et netus et",
+      "price": 9292,
+      "priceDiskount": 3017,
+      "action": ["NEW"]
+    },
+    {
+      "link": "539C87DA-586F-3F40-63ED-8FD082A30A97",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "porta elit, a feugiat tellus lorem eu metus. In lorem. Donec elementum, lorem",
+      "price": 9465,
+      "priceDiskount": 5990,
+      "action": ["NEW"]
+    },
+    {
+      "link": "E46D6E2D-9A73-781A-9A41-B015ECD374AA",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices",
+      "price": 3516,
+      "priceDiskount": 5737,
+      "action": ["NEW"]
+    },
+    {
+      "link": "D285C11F-16A2-7D8B-C09A-04C8476C4D72",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec",
+      "price": 8003,
+      "priceDiskount": 0,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "82CF3AF5-6A26-EF62-6CDD-4924277ECE3A",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque",
+      "price": 2728,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "B1D0AA53-0660-1C6B-879C-BD7EDDF96696",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque. In ornare sagittis felis. Donec tempor, est",
+      "price": 2948,
+      "priceDiskount": 2868,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "DE5C49FF-28BD-22C8-8235-3EB6F751014F",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Etiam ligula",
+      "price": 5616,
+      "priceDiskount": 3457,
+      "action": ["NEW"]
+    },
+    {
+      "link": "1C19CD27-B5D7-F954-9081-1F4394D92C86",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "erat neque non quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam",
+      "price": 7454,
+      "priceDiskount": 4621,
+      "action": ["NEW"]
+    },
+    {
+      "link": "C4DD24D9-54A7-5340-5E28-BB6422EF044F",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "et ipsum cursus vestibulum. Mauris magna. Duis dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit. Donec porttitor tellus",
+      "price": 8449,
+      "priceDiskount": 7346,
+      "action": ["NEW"]
+    },
+    {
+      "link": "6C095D4A-5056-7EC0-A7CF-A7DBDCB96389",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus.",
+      "price": 8101,
+      "priceDiskount": 4829,
+      "action": ["HIT"]
+    },
+    {
+      "link": "B4D7DF45-1DDD-4585-D33D-BD19E50A8F53",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante.",
+      "price": 4893,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "E9785F37-57AE-94E5-1EDD-20A6D6ECA294",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "nisl arcu iaculis enim, sit amet ornare lectus justo eu arcu. Morbi sit amet massa. Quisque porttitor eros nec tellus.",
+      "price": 3035,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "88C39E44-0AC5-1633-03B1-D67C49DECCF1",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae",
+      "price": 3800,
+      "priceDiskount": 2164,
+      "action": ["HIT"]
+    },
+    {
+      "link": "5BBA59C3-508F-87B9-9B6B-64DB83C98CDE",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "iaculis quis, pede. Praesent eu dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis",
+      "price": 6475,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 4,
+      "link": "60EF2EBD-3E59-ABC4-FAFA-9AA8868E6FDF",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": []
+      "name": "et tristique pellentesque, tellus sem mollis dui, in sodales elit erat vitae risus. Duis a mi fringilla mi lacinia mattis. Integer",
+      "price": 7903,
+      "priceDiskount": 3881,
+      "action": ["HIT"]
     },
     {
-      "link": 5,
+      "link": "909CFA38-5541-6DB4-D221-FC39C21FE864",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": []
+      "name": "nec ante. Maecenas mi felis, adipiscing",
+      "price": 8210,
+      "priceDiskount": 2170,
+      "action": ["HIT"]
     },
     {
-      "link": 6,
+      "link": "CC37D038-B403-7EFC-B0B4-39822023D929",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "mus. Donec dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus.",
+      "price": 2926,
       "priceDiskount": 0,
-      "action": []
+      "action": ["HIT", "NEW"]
     },
     {
-      "link": 7,
+      "link": "07C9A62E-E510-408D-8A48-2FEB814ADA50",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi pede, nonummy ut, molestie in, tempus eu, ligula. Aenean euismod mauris eu elit. Nulla",
+      "price": 2228,
       "priceDiskount": 0,
-      "action": []
+      "action": ["NEW"]
     },
     {
-      "link": 8,
+      "link": "EE5BF3B0-801A-C126-4CA1-152EDC79D18A",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": []
+      "name": "dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est.",
+      "price": 9797,
+      "priceDiskount": 5693,
+      "action": ["HIT"]
     },
     {
-      "link": 9,
+      "link": "CE15635D-7733-AF92-9C86-847893822F3C",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": []
+      "name": "augue eu tellus. Phasellus elit pede, malesuada vel, venenatis vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus non,",
+      "price": 9523,
+      "priceDiskount": 6033,
+      "action": ["HIT", "NEW"]
     },
     {
-      "link": 10,
+      "link": "FCA69643-6AE8-F549-6227-FD190C3ACBF0",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "tristique pharetra. Quisque ac libero nec ligula",
+      "price": 7146,
+      "priceDiskount": 5400,
+      "action": ["HIT"]
+    },
+    {
+      "link": "A8ACBBE3-A115-A68F-8349-6FB19704D8C9",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Nam consequat dolor",
+      "price": 8125,
+      "priceDiskount": 0,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "96D68705-978A-C522-B960-17426319A2D0",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis non, cursus non, egestas a, dui. Cras pellentesque.",
+      "price": 5192,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 11,
+      "link": "C850C5CB-544A-C860-B58E-4B0C73288009",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": []
-    },
-    {
-      "link": 12,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": []
-    },
-    {
-      "link": 13,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "ac nulla. In tincidunt congue turpis. In condimentum. Donec at arcu. Vestibulum ante ipsum primis in faucibus orci luctus",
+      "price": 5597,
       "priceDiskount": 0,
       "action": ["NEW"]
     },
     {
-      "link": 14,
+      "link": "5E5C218F-5557-DE2B-7931-73CE5CDCA70C",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "nisi.",
+      "price": 8949,
+      "priceDiskount": 2688,
+      "action": ["NEW"]
+    },
+    {
+      "link": "0E2443FC-C832-262A-6BB8-9AD571B683C0",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec",
+      "price": 8535,
+      "priceDiskount": 3459,
+      "action": ["NEW"]
+    },
+    {
+      "link": "5CA1F6B4-9A88-B6FE-DD8B-288830EEF376",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "nec mauris blandit mattis. Cras eget nisi dictum augue malesuada malesuada. Integer id magna et ipsum",
+      "price": 9507,
+      "priceDiskount": 5990,
+      "action": ["NEW"]
+    },
+    {
+      "link": "0A6FD29E-AA62-08F6-178E-68F9AD2D05D4",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "vel arcu. Curabitur ut odio vel est tempor bibendum. Donec felis orci, adipiscing non, luctus sit amet, faucibus ut, nulla. Cras eu tellus eu augue",
+      "price": 2845,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 15,
+      "link": "ECBC836C-13A2-3EA7-93BA-B466B428C3AC",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 5310,
-      "priceDiskount": 2655,
-      "action": ["NEW"]
+      "name": "leo. Morbi neque tellus,",
+      "price": 2715,
+      "priceDiskount": 2675,
+      "action": ["HIT"]
     },
     {
-      "link": 16,
+      "link": "F7146575-E3A4-7698-A98E-F9A1EA4BB5AD",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 352,
-      "action": []
-    },
-    {
-      "link": 17,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "Vivamus nisi. Mauris",
+      "price": 5690,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 18,
+      "link": "DAEBD03E-6368-C888-633D-914512FAF3BA",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
+      "name": "ipsum. Curabitur consequat, lectus sit amet luctus vulputate, nisi sem semper erat, in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque",
+      "price": 7694,
+      "priceDiskount": 5052,
       "action": ["NEW"]
     },
     {
-      "link": 19,
+      "link": "69DE0044-151B-7E4A-CEFA-6F10F7C62DF8",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": ["NEW"]
+      "name": "sit amet metus. Aliquam erat",
+      "price": 8051,
+      "priceDiskount": 5443,
+      "action": ["HIT", "NEW"]
     },
     {
-      "link": 20,
+      "link": "BC1F596D-121F-E459-2ED2-4C4E94128D29",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "ac mi eleifend egestas. Sed pharetra, felis eget varius ultrices, mauris ipsum porta elit, a feugiat tellus lorem eu",
+      "price": 8088,
+      "priceDiskount": 2258,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "CC3C6A99-D652-59A8-6422-C5F24DF44A26",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "felis. Nulla tempor augue ac ipsum. Phasellus",
+      "price": 5576,
+      "priceDiskount": 0,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "F203A118-D83F-017C-D19B-4D694BCD84EA",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "luctus sit amet, faucibus ut, nulla. Cras eu tellus eu augue porttitor interdum. Sed auctor odio a purus. Duis elementum, dui quis accumsan",
+      "price": 6438,
+      "priceDiskount": 2294,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "D33BB6DC-25D0-F414-1BB9-29283CE57B71",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum",
+      "price": 2398,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 21,
+      "link": "8F86D633-39D0-6627-2E2E-D3A3FEBB4FBE",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 5310,
-      "priceDiskount": 2655,
-      "action": ["NEW"]
-    },
-    {
-      "link": 22,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 352,
-      "action": []
-    },
-    {
-      "link": 23,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "orci, in consequat enim diam vel arcu. Curabitur ut odio vel est tempor bibendum. Donec felis orci, adipiscing",
+      "price": 7496,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 24,
+      "link": "EEF7E9FB-5E31-8A5D-FCB8-FF7F114E9077",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit eget laoreet posuere, enim nisl elementum",
+      "price": 7511,
+      "priceDiskount": 6455,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "2DC16CEF-E097-BE79-5B6F-62437DF9E2FE",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Morbi neque tellus, imperdiet non,",
+      "price": 6583,
       "priceDiskount": 0,
-      "action": ["NEW"]
+      "action": ["HIT", "NEW"]
     },
     {
-      "link": 25,
+      "link": "E9C0C8F4-6A28-146B-21D5-CEC0EA894C64",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque",
+      "price": 7132,
+      "priceDiskount": 3778,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "F31983DE-0102-A63E-DD14-4F98A324E0AF",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem,",
+      "price": 6717,
+      "priceDiskount": 2895,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "E57E78B3-F885-6E82-0029-79D3879A33C2",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "tellus faucibus leo, in lobortis tellus justo",
+      "price": 2235,
       "priceDiskount": 0,
-      "action": ["NEW"]
+      "action": ["HIT", "NEW"]
     },
     {
-      "link": 26,
+      "link": "6870DF41-80A7-889A-3391-470ED6D7CF12",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": ["HIT"]
+      "name": "Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis mi",
+      "price": 4090,
+      "priceDiskount": 2283,
+      "action": ["HIT", "NEW"]
     },
     {
-      "link": 27,
+      "link": "BEF03E80-6F90-8D48-1416-FDEE9F2EC9A9",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 5310,
-      "priceDiskount": 2655,
-      "action": ["NEW"]
-    },
-    {
-      "link": 28,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 352,
-      "action": []
-    },
-    {
-      "link": 29,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": ["HIT"]
-    },
-    {
-      "link": 30,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": ["NEW"]
-    },
-    {
-      "link": 31,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 0,
-      "action": ["NEW"]
-    },
-    {
-      "link": 32,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "fringilla. Donec feugiat metus sit amet ante. Vivamus non",
+      "price": 8077,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 33,
+      "link": "64AF517F-3EF6-C715-96B8-944684385E55",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 5310,
-      "priceDiskount": 2655,
-      "action": ["NEW"]
+      "name": "tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "price": 8361,
+      "priceDiskount": 5329,
+      "action": ["HIT"]
     },
     {
-      "link": 34,
+      "link": "4A1DDA0D-B415-DA1C-F1BC-DE56F80368FA",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
-      "priceDiskount": 352,
-      "action": []
-    },
-    {
-      "link": 35,
-      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "mauris, rhoncus id, mollis nec, cursus a,",
+      "price": 4333,
       "priceDiskount": 0,
       "action": ["HIT"]
     },
     {
-      "link": 36,
+      "link": "C96A801B-8FEA-32FE-17C9-D304C0B8F749",
       "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
-      "name": "Hippychick Комбинезон лесли",
-      "price": 803,
+      "name": "Sed eu eros.",
+      "price": 3554,
       "priceDiskount": 0,
       "action": ["NEW"]
+    },
+    {
+      "link": "6AB17C74-94C6-F770-6398-22E1C53AB1DC",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Donec felis orci, adipiscing non, luctus sit amet, faucibus ut, nulla. Cras eu tellus eu augue porttitor interdum. Sed auctor",
+      "price": 8752,
+      "priceDiskount": 4276,
+      "action": ["HIT"]
+    },
+    {
+      "link": "15CC4676-0050-D415-1792-3B0E88C536FE",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "lectus.",
+      "price": 9683,
+      "priceDiskount": 6504,
+      "action": ["HIT"]
+    },
+    {
+      "link": "F994067C-C870-5633-6C58-EBB8D2D92571",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "et, rutrum non, hendrerit id,",
+      "price": 8145,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "5655678D-CD60-7285-8E41-A21BA604BC4C",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Cum sociis natoque penatibus",
+      "price": 6387,
+      "priceDiskount": 4705,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "23B90C4D-F766-4372-07D6-9E325A4C4973",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "egestas. Sed pharetra, felis eget varius ultrices, mauris ipsum porta elit, a feugiat tellus lorem eu metus. In lorem. Donec",
+      "price": 6708,
+      "priceDiskount": 6421,
+      "action": ["HIT"]
+    },
+    {
+      "link": "0264445E-45D4-518B-2DE2-6C3886224295",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "id enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque",
+      "price": 7001,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "47E49A2C-00DB-E9B2-9DAF-4C5655F5682A",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Proin vel arcu eu odio tristique pharetra.",
+      "price": 5237,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "33CD7236-4659-64DA-EF3B-2E321E376C36",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare",
+      "price": 5234,
+      "priceDiskount": 4380,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "90AAA586-02BA-F9EB-54E6-A284D683FE17",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel,",
+      "price": 4692,
+      "priceDiskount": 3277,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "19500672-7805-EF33-A8BC-6962B640F0BF",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "non enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent eu nulla",
+      "price": 8173,
+      "priceDiskount": 5500,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "8F59A4A7-CBD3-5762-DFAF-310A49233325",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim.",
+      "price": 9395,
+      "priceDiskount": 2748,
+      "action": ["NEW"]
+    },
+    {
+      "link": "66E09CAC-2573-039F-6D52-7A18E0355651",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+      "price": 9766,
+      "priceDiskount": 6004,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "2A63BD8E-A1E6-636A-77EB-77A5236652DF",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "eu, accumsan sed, facilisis vitae, orci. Phasellus dapibus",
+      "price": 5336,
+      "priceDiskount": 2382,
+      "action": ["NEW"]
+    },
+    {
+      "link": "19472ECF-C4B0-A3BA-968C-0EE5D7BA7824",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin vel nisl.",
+      "price": 3220,
+      "priceDiskount": 2251,
+      "action": ["NEW"]
+    },
+    {
+      "link": "D577AB16-3621-4D98-1E78-AE5F63FC4AE1",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt, neque vitae semper egestas, urna justo faucibus lectus, a sollicitudin",
+      "price": 2056,
+      "priceDiskount": 0,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "EFA21A16-D584-8BB8-EF99-456F3A361DE3",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Sed neque. Sed eget lacus. Mauris non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et",
+      "price": 6706,
+      "priceDiskount": 6025,
+      "action": ["HIT"]
+    },
+    {
+      "link": "6C568F5F-6064-559A-4294-C46733004361",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut lacus.",
+      "price": 4374,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "7E103DDA-D34D-73D1-DC19-8483487BE8F7",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "lobortis tellus justo sit amet nulla. Donec non justo. Proin non massa non ante bibendum ullamcorper. Duis cursus, diam at",
+      "price": 6631,
+      "priceDiskount": 4121,
+      "action": ["NEW"]
+    },
+    {
+      "link": "DCBC03D9-E819-6EB4-6708-BBA0CAF1000E",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "dolor, nonummy ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris. Integer",
+      "price": 2937,
+      "priceDiskount": 0,
+      "action": ["HIT"]
+    },
+    {
+      "link": "99DF7205-0B33-1A25-0FD0-DEEAED792795",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "vel nisl. Quisque fringilla euismod enim. Etiam gravida molestie arcu. Sed eu nibh vulputate",
+      "price": 9983,
+      "priceDiskount": 7491,
+      "action": ["NEW"]
+    },
+    {
+      "link": "7E6691C1-3CE8-D257-3D3F-B2856A842669",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "urna justo faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero. Integer in magna.",
+      "price": 6110,
+      "priceDiskount": 2062,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "AE0EE661-C0E8-4A7F-18FD-186F3F802B35",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "fringilla purus mauris",
+      "price": 9227,
+      "priceDiskount": 6328,
+      "action": ["NEW"]
+    },
+    {
+      "link": "59B9AB72-9464-134E-90D9-5287D93B8B49",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "eu, euismod ac, fermentum vel, mauris. Integer sem elit, pharetra",
+      "price": 6832,
+      "priceDiskount": 3181,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "44E9A962-7B62-F458-A285-5F81C72297AA",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+      "price": 3614,
+      "priceDiskount": 0,
+      "action": ["HIT"]
+    },
+    {
+      "link": "9ACE0843-ED5C-27A3-939A-C3EB8EB98606",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "eu, euismod ac, fermentum vel, mauris. Integer sem",
+      "price": 6607,
+      "priceDiskount": 2063,
+      "action": ["HIT"]
+    },
+    {
+      "link": "C79D0E31-0A23-4360-BBC8-7AB3AEE71551",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "diam at pretium aliquet, metus urna convallis",
+      "price": 3163,
+      "priceDiskount": 4187,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "5C6EB4CE-B384-BE09-E02C-72E21493B39B",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Donec tempus, lorem fringilla ornare placerat, orci",
+      "price": 7536,
+      "priceDiskount": 0,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "00720B2F-7224-15A4-A61E-E4281EA20CE5",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Phasellus vitae mauris sit amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi pede, nonummy ut, molestie in, tempus eu, ligula.",
+      "price": 6285,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "33B4D2A4-F2E2-4EC1-6971-EA50F44BD7B0",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit. Donec porttitor tellus non magna.",
+      "price": 9403,
+      "priceDiskount": 5308,
+      "action": ["NEW"]
+    },
+    {
+      "link": "128789B7-31BB-AEC1-1935-EFCA40DC3B72",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "eu erat semper rutrum. Fusce dolor quam, elementum at, egestas a, scelerisque sed, sapien. Nunc pulvinar arcu et pede. Nunc sed orci lobortis augue scelerisque",
+      "price": 9958,
+      "priceDiskount": 3484,
+      "action": ["HIT"]
+    },
+    {
+      "link": "8BDEA931-ACB1-496B-2462-B1D9D1D8D477",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "ultrices sit amet, risus.",
+      "price": 6553,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "DBED146D-D745-CA4D-FA83-C77ABDB10906",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Suspendisse tristique neque venenatis lacus. Etiam bibendum fermentum metus. Aenean sed",
+      "price": 7174,
+      "priceDiskount": 4375,
+      "action": ["NEW"]
+    },
+    {
+      "link": "A9061F8A-5A44-BB45-F8FF-857EE822BEB8",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "netus et malesuada fames ac turpis egestas. Fusce aliquet magna a neque. Nullam ut nisi a odio semper cursus. Integer mollis. Integer",
+      "price": 2541,
+      "priceDiskount": 2009,
+      "action": ["NEW"]
+    },
+    {
+      "link": "B5C41570-947F-9562-19DA-E0C7B258A174",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor nibh sit amet orci. Ut sagittis",
+      "price": 6926,
+      "priceDiskount": 2360,
+      "action": ["NEW"]
+    },
+    {
+      "link": "9CD29211-3B7C-DA44-4CC6-53E76F2F8FAC",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "felis orci, adipiscing non, luctus sit amet, faucibus ut, nulla. Cras eu tellus eu augue porttitor interdum. Sed auctor odio",
+      "price": 7311,
+      "priceDiskount": 5215,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "F9F563E6-F369-9879-EB81-EB111FF3B7AB",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "euismod in, dolor. Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit",
+      "price": 8682,
+      "priceDiskount": 3910,
+      "action": ["HIT", "NEW"]
+    },
+    {
+      "link": "34AD1FFA-67D1-811C-0FF8-91F150F85F14",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus justo eu arcu. Morbi",
+      "price": 8931,
+      "priceDiskount": 6663,
+      "action": ["NEW"]
+    },
+    {
+      "link": "643130DC-4AE9-F5D6-B48E-5BE68A494EA2",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "Aliquam erat volutpat.",
+      "price": 9669,
+      "priceDiskount": 0,
+      "action": ["NEW"]
+    },
+    {
+      "link": "79D25CC7-E7AD-9003-236F-6A14EFFADAC8",
+      "image": "https://i.ibb.co/GPBCPH4/Rectangle-88.jpg",
+      "name": "mi tempor lorem, eget mollis lectus pede et risus. Quisque libero lacus,",
+      "price": 7707,
+      "priceDiskount": 0,
+      "action": ["HIT", "NEW"]
     }
   ]
 }
