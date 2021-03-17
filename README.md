@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend
 
-## Getting Started
+Тестовое задание для Frontend-разработчиков
 
-First, run the development server:
+## Описание
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Представьте, что вам необходимо реализовать каталог товаров для крупного
+интернет магазина. На данной странице выводится название категории,
+блоки с фильтрацией, сортировкой, баннеры, описание, но основным блоком на
+данной странице является список товаров.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Задача
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Ваша задача заключается в том, что бы отображать список товаров на этой странице.
+Нет необходимости что-либо подгружать с серверов, эти данные можно просто
+замокать и имитировать подгрузку данных отображением лоадера.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+В качестве выполненной работы необходимо предоставить ссылку на репозиторий с исходниками.
+Проект должен запускаться локально.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Требования к технологиям
 
-## Learn More
+- React **без классовых компонентов**
+- React Hooks
+- Минимальная ширина экрана - 320px. Максимальная 1280px
+- \*Желательно использовать CSS Modules, SASS.
+- \*Желательно использовать TypeScript.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Требования к визуалу
 
-## Deploy on Vercel
+- ~~При первичной загрузке необходимо отображать 20 первых товаров~~
+- ~~Приложение не должно тормозить даже когда на экране более 1000 товаров~~
+- ~~Осуществлять lazy load подгрузку когда скролл приближается к нижней границе
+  экрана. Подгрузка осуществляется по 20 товаров~~
+- ~~Все кнопки, названия товаров должны быть на одном горизонтальном уровне.~~
+- ~~Кликом на изображение, название и кнопку 'Подробнее' в карточке товара, необходимо
+  выполнять переход по ссылке указанной в поле link~~
+- ~~Название товара должно обрезаться в случае если будет занимать больше двух строк,
+  но при наведение на название плавно увеличиваться вверх для показа полного текста названия,
+  уменьшая при этом изображение, карточка при наведении на название показана на макете,
+  компонент - Product hover~~
+- ~~Значок со скидкой и цена со скидкой показываются только при условии что она ниже обычной цены,
+  процент скидки высчитывается при выводе.~~
+- ~~Выполненная работа должна соответствовать указанному
+  ниже.~~
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Для запуска проекта требуется выполнить команды 
+- `yarn json-server`
+- `yarn dev`
