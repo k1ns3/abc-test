@@ -1,21 +1,22 @@
 import React from 'react';
-import axios from 'axios';
 import { PhonesList } from '../components/PhonesList/PhonesList';
 import style from '../styles/home.module.scss';
-import { Product } from '../interfaces/types';
 
-export default function Home() {
-  const [phones, setPhones] = React.useState<Product[]>([]);
-
-  React.useEffect(() => {
-    axios.get(`http://localhost:3001/phones`).then(({ data }) => {
-      setPhones(data);
-    });
-  }, []);
-
+export default function Home({ phones }) {
   return (
     <div className={style.container}>
-      <PhonesList pizzas={phones} />
+      <PhonesList phones={phones} />
     </div>
   );
+}
+
+export async function getServerSideProps({ req }) {
+  if (!req) {
+    return { phones: null };
+  }
+  const response = await fetch(`http://localhost:3001/phones?_limit=20&_page=0`);
+  const phones = await response.json();
+  return {
+    props: { phones }
+  };
 }
