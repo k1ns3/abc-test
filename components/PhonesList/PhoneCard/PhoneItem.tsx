@@ -46,7 +46,7 @@ export const PhoneItem: React.FC<Product> = ({
       </div>
 
       <div className={style.phones__imgWrap}>
-        <img className={style.phones__img} src={image} alt={name} />
+        <img loading="lazy" className={style.phones__img} src={image} alt={link} />
       </div>
 
       <div className={style.phones__content}>
