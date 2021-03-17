@@ -14,6 +14,10 @@ export const PhoneItem: React.FC<Product> = ({
 }) => {
   const router = useRouter();
 
+  const [phoneName, setPhoneName] = React.useState<string>(
+    name.slice(0, 40).concat('...')
+  );
+
   const renderStickers = React.useCallback(() => {
     return action.map(item => {
       return item === ActionsType.HIT ? (
@@ -39,6 +43,14 @@ export const PhoneItem: React.FC<Product> = ({
     router.push(url, url);
   }, [router]);
 
+  const onMouseOver = React.useCallback(() => {
+    setPhoneName(name);
+  }, []);
+
+  const onMouseOut = React.useCallback(() => {
+    setPhoneName(name.slice(0, 40).concat('...'));
+  }, []);
+
   return (
     <div className={style.phones__item}>
       <div className={style.phones__stickers}>
@@ -46,11 +58,18 @@ export const PhoneItem: React.FC<Product> = ({
       </div>
 
       <div className={style.phones__imgWrap}>
-        <img loading="lazy" className={style.phones__img} src={image} alt={link} />
+        <img
+          onMouseOver={onMouseOver}
+          onMouseOut={onMouseOut}
+          loading="lazy"
+          className={style.phones__img}
+          src={image}
+          alt={link}
+        />
       </div>
 
       <div className={style.phones__content}>
-        <div className={style.phones__title}>{name.slice(0, 40).concat('...')}</div>
+        <div className={style.phones__title}>{phoneName}</div>
 
         <div className={style.phones__priceWrap}>
           {priceDiskount ? (
