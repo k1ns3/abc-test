@@ -49,5 +49,6 @@
 ---
 
 ## Для запуска проекта требуется выполнить команды 
+- `yarn install`
 - `yarn json-server`
 - `yarn dev`
